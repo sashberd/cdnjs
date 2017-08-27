@@ -191,9 +191,12 @@ var processNewVersion = function (pkg, version) {
 
         var copyPart = path.relative(libContentsPath, extractFilePath);
         var copyPath = path.join(libPath, copyPart);
-        fs.mkdirsSync(path.dirname(copyPath));
-        fs.copySync(extractFilePath, copyPath);
-        fs.chmodSync(copyPath, '0644');
+        if (fs.statSync(extractFilePath).size !== 0){
+          // don't copy the empty file from the source
+          fs.mkdirsSync(path.dirname(copyPath));
+          fs.copySync(extractFilePath, copyPath);
+          fs.chmodSync(copyPath, '0644');
+        }
         updated = true;
       });
     });

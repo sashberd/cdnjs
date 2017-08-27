@@ -17,21 +17,27 @@ node_modules/
 /ajax/libs/mdbootstrap/4.4.0-dev
 /ajax/libs/esri-leaflet-geocoder/2.2.5
 /ajax/libs/vega-tooltip/0.3.1
+/ajax/libs/brython/3.2.*
 /ajax/libs/jqBootstrapValidation/2.0.0-alpha
-/ajax/libs/inferno/1.*.*-alpha.*
+/ajax/libs/inferno/*-alpha.*
+/ajax/libs/inferno-component/*-alpha.*
 /ajax/libs/crypto-js/release-3.1.2*
 /ajax/libs/trackpad-scroll-emulator/version_1.0
 /ajax/libs/date-fns/v.*
 /ajax/libs/react-quill/02e9da4/
+/ajax/libs/inferno-test-utils/*-alpha.*
 /ajax/libs/infusion/*-dev.*/
+/ajax/libs/inferno-vnode-flags/*-alpha.*
 /ajax/libs/clone/0.1.*
 /ajax/libs/punycode/2.0.*
 /ajax/libs/punycode/2.1.*
+/ajax/libs/inferno-server/*-alpha.*
 /ajax/libs/clusterize.js/v.0.6.0
 /ajax/libs/tachyons/v.4.5.0
 /ajax/libs/onsen/0.6.0/
 /ajax/libs/avalon.js/2.1.16ee/
 /ajax/libs/systemjs-plugin-json/0.1.0/
+/ajax/libs/inferno-devtools/*-alpha.*
 /ajax/libs/redux-form/6.0.3/
 /ajax/libs/spoqa-han-sans/origin
 /ajax/libs/avalon.js/before-rebuild-strategy/
@@ -40,13 +46,16 @@ node_modules/
 /ajax/libs/appbase-js/1.0.0/
 /ajax/libs/graphdracula/1.0.1-*
 /ajax/libs/d3-tip/0.7.0-temp-fork/
+/ajax/libs/inferno-hyperscript/*-alpha.*
 /ajax/libs/meshki/1.0.0/
 /ajax/libs/meshki/1.1.0/
 /ajax/libs/js-nacl/last_plain_nacl_version/
 /ajax/libs/js-scrypt/1.1.0/
 /ajax/libs/imgareaselect/0.9.11-rc.1/
+/ajax/libs/inferno-router/*-alpha.*
 /ajax/libs/jsxgraph/rm/
 /ajax/libs/elfinder/*-src
+/ajax/libs/embed-js/*-alpha.*
 /ajax/libs/mobx/*fix*
 /ajax/libs/mobx/*albert*
 /ajax/libs/aui/*do-not-use/
@@ -102,6 +111,7 @@ node_modules/
 /ajax/libs/angular-leaflet-directive/delete/
 /ajax/libs/angular-leaflet-directive/remove/
 /ajax/libs/angular-smart-table/help/
+/ajax/libs/angular-mocks/*-build.*/
 /ajax/libs/atmosphere/javascript-project-*
 /ajax/libs/waypoints/latest/
 /ajax/libs/bPopup/ver*
@@ -197,7 +207,7 @@ node_modules/
 /ajax/libs/mobx-react/*-observableprops*/
 /ajax/libs/mobx-react/*-fix*/
 /ajax/libs/react-data-grid/*-*/
-!ajax/libs/react-data-grid/*-alpha*/
+/ajax/libs/react-data-grid/*-alpha*/
 /ajax/libs/react-data-grid/*-dm*/
 /ajax/libs/jquery-easing/1.3.0/
 /ajax/libs/jquery-easing/1.3.1/
@@ -209,6 +219,7 @@ node_modules/
 /ajax/libs/slim.js/1.*/
 /ajax/libs/slim.js/2.[0-5].*/
 /ajax/libs/europa/4.0.0-alpha*/
+/ajax/libs/inferno-compat/*-alpha.*/
 
 #ignore files that we don't need
 /ajax/libs/*/*/**/Gruntfile.js
