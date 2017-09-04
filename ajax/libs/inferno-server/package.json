@@ -1,6 +1,6 @@
 {
   "name": "inferno-server",
-  "version": "3.8.0",
+  "version": "3.8.2",
   "filename": "inferno-server.min.js",
   "license": "MIT",
   "description": "Provides methods to render HTML strings from Inferno elements",

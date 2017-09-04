@@ -38,7 +38,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/framework7*",
+          "**/framework7!(.module)*",
           "img/**/*.+(png|svg)"
         ]
       }

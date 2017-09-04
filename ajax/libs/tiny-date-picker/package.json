@@ -1,7 +1,7 @@
 {
   "name": "tiny-date-picker",
   "filename": "tiny-date-picker.min.js",
-  "version": "2.2.0",
+  "version": "2.4.0",
   "description": "A small, dependency-free date picker",
   "repository": {
     "type": "git",

@@ -18,7 +18,7 @@
     {
       "basePath": "dist",
       "files": [
-        "**/*"
+        "**/!(swiper.module.js|swiper.modular.js)"
       ]
     }
   ],

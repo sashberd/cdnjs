@@ -185,7 +185,7 @@ var processNewVersion = function (pkg, version) {
       }
 
       _.each(files, function (extractFilePath) {
-        if (extractFilePath.match(/(dependencies|\.zip\s*$)/i)) {
+        if (extractFilePath.match(/(\.zip\s*$)/i)) {
           return;
         }
 

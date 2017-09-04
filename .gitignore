@@ -22,6 +22,7 @@ node_modules/
 /ajax/libs/inferno/*-alpha.*
 /ajax/libs/inferno-component/*-alpha.*
 /ajax/libs/crypto-js/release-3.1.2*
+/ajax/libs/inferno-create-class/*-alpha.*
 /ajax/libs/trackpad-scroll-emulator/version_1.0
 /ajax/libs/date-fns/v.*
 /ajax/libs/react-quill/02e9da4/
@@ -44,6 +45,7 @@ node_modules/
 /ajax/libs/avalon.js/ms_controller_fix/
 /ajax/libs/avalon.js/dynamic_detect/
 /ajax/libs/appbase-js/1.0.0/
+/ajax/libs/inferno-mobx/*-alpha.*
 /ajax/libs/graphdracula/1.0.1-*
 /ajax/libs/d3-tip/0.7.0-temp-fork/
 /ajax/libs/inferno-hyperscript/*-alpha.*
@@ -68,6 +70,7 @@ node_modules/
 /ajax/libs/jsmediatags/.3.2.0/
 /ajax/libs/ionic-framework/2.0.0-alpha.2.0.0-alpha.50/
 /ajax/libs/unibox/jquery_plugin/
+/ajax/libs/inferno-redux/*-alpha.*
 /ajax/libs/guards/bootstrap-*/
 /ajax/libs/guards/foundation-*/
 /ajax/libs/roslibjs/node*
@@ -121,9 +124,12 @@ node_modules/
 /ajax/libs/flocks.js/0.15.7/
 /ajax/libs/qoopido.js/support
 /ajax/libs/qoopido.js/widget-adapt
+/ajax/libs/vue-lazyload/0.*
+/ajax/libs/vue-lazyload/1.0.0-*
 /ajax/libs/strophe.js/release-1.2.0
 /ajax/libs/raphael/semver/
 /ajax/libs/clappr/media_control_youtube/
+/ajax/libs/clarity-icons/*-dev*
 /ajax/libs/URI.js/v.1*
 /ajax/libs/jquery.gridster/v.0.4.0/
 /ajax/libs/backbone.layoutmanager/0.0.0/
@@ -190,6 +196,7 @@ node_modules/
 /ajax/libs/plottable.js/3.0.0-*-g*
 /ajax/libs/plottable.js/*-dev-*
 /ajax/libs/Primer/*-alpha*
+/ajax/libs/inferno-create-element/*-alpha.*
 /ajax/libs/jQRangeSlider/latest/
 /ajax/libs/material-design-icons/2.0
 /ajax/libs/randomcolor/0.2

@@ -2,7 +2,7 @@
   "name": "rollbar.js",
   "author": "Rollbar, Inc",
   "description": "Error tracking and logging from JS to Rollbar",
-  "version": "2.2.5",
+  "version": "2.2.7",
   "homepage": "https://rollbar.com",
   "repository": {
     "type": "git",
