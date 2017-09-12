@@ -1,0 +1,34 @@
+{
+  "name": "loadcss",
+  "description": "A function for loading CSS asynchronously",
+  "filename": "loadCSS.min.js",
+  "author": "Filament Group <hello@filamentgroup.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filamentgroup/loadCSS.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "async loading",
+    "js"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/filamentgroup/loadCSS.git",
+    "fileMap": [
+      {
+        "basePath": "src",
+        "files": [
+          "*load*"
+        ]
+      },
+	  {
+        "basePath": "",
+        "files": [
+          "*load*"
+        ]
+      }
+    ]
+  }
+}
